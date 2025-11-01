@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Milad Niazi
 
-I'm a **web developer** specialized in **PHP** and **Laravel**, passionate about building modern web applications and learning new technologies 🚀
+“Your bugs look lonely. I can fix that.”
 
 ---
 
